@@ -1,3 +1,7 @@
+<a href="https://trackgit.com">
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh755dd5ca2nv3foqd9l" alt="trackgit-views" />
+</a>
+
 [![](https://raw.githubusercontent.com/t10o/t10o/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/t10o/t10o/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/t10o/t10o/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/t10o/t10o/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/t10o/t10o/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
